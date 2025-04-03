@@ -1,0 +1,15 @@
+using System.IO;
+
+File----file working
+FileInfo-------------------------info on file======Instance Methods
+Directory-----folders working ----Directory is a static class with static methods
+DirectoryInfo-----------info on folders/directory============Instance Methods
+
+
+text, binary,xml,json---------FileStream=====instance methods ====creating file, giving access to the file,setting the mode of the file
+
+FileMode: Create,CreateNew,Append,Truncate,Open,OpenOrCreate
+FileAccess: Read, Write, ReadWrite
+
+StreamReader: read from the file
+StreamWriter: write to the file
